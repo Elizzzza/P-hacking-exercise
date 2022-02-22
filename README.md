@@ -1,6 +1,6 @@
 # BIOST 505 WRITING, PRESENTATION, AND COLLABORATION SKILLS FOR BIOSTATISTICS  
-Winter 2022 
-Instructor: Marco Carone  
+### Winter 2022 
+### Instructor: Marco Carone  
 
 ## HOMEWORK 2 
  
