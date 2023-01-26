@@ -1,5 +1,5 @@
-# BIOST 505 WRITING, PRESENTATION, AND COLLABORATION SKILLS FOR BIOSTATISTICS  
-#### Winter 2022 
+# Investigate the impact of subgroup mining, a type of p-hacking, on type I error control
+#### BIOST 505 WRITING, PRESENTATION, AND COLLABORATION SKILLS FOR BIOSTATISTICS  
 #### Instructor: Marco Carone  
 
 ## HOMEWORK 2 
